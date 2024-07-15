@@ -7,3 +7,7 @@ python ipv6.py -i ipv6_addresses.txt -l directories.txt -o output.csv
 	parser.add_argument("-i", "--ipv6", type=str, help="包含 IPv6 地址的文件路径")
 	parser.add_argument("-l", "--directories", type=str, help="包含目录列表的文件路径")
 	parser.add_argument("-o", "--output", type=str, help="输出结果的文件路径最后是csv路径")
+
+
+不想安装库的话可以直接下exe版本的
+ipv6.exe -i ipv6_addresses.txt -l directories.txt -o output.csv
