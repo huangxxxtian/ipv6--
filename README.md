@@ -11,3 +11,5 @@ python ipv6.py -i ipv6_addresses.txt -l directories.txt -o output.csv
 
 不想安装库的话可以直接下exe版本的
 ipv6.exe -i ipv6_addresses.txt -l directories.txt -o output.csv
+使用截图
+![image](https://github.com/user-attachments/assets/86777000-9a10-49f2-9f47-1ec2c70942e1)
